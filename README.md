@@ -21,7 +21,7 @@ The goal is to demonstrate an end-to-end data analyst workflow: data loading, cl
 - Order volume and delivery patterns
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard](screenshots/dash1.png)
 
 ## Files
 - `dashboard/`: Power BI dashboard
